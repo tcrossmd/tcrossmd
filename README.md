@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tcrossmd
-- 👀 I’m interested in power automate and github
-- 🌱 I’m currently learning power automate and refreshing my oop skills
-- 💞️ I’m looking to collaborate on power automate, SharePoint, and Java
+- 👀 I’m interested in collaboration and learning
+- 🌱 I’m currently refreshing my skills
+- 💞️ I’m looking to collaborate here on Github and get the hang of this platform.
 - 📫 How to reach me tcrossmd.com
 
 <!---
